@@ -25,6 +25,8 @@ Sky War adalah sebuah permainan tembak-menembak berbasis Python yang dikembangka
 - *⭠* = untuk membuat pesawat bergerak kekiri
 - *SPACE* = untuk menembak
 - *ESC* = untuk *pause* atau jeda permainan
+- *Z* = untuk mengaktifkan shield
+- *X* = untuk menembakkan missile
 ## RC - PY.AGENCY
 
 | NIM       | Nama                       | Profesi                      |
