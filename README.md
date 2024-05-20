@@ -14,7 +14,7 @@ Sky War adalah sebuah permainan tembak-menembak berbasis Python yang dikembangka
 4. *Extract* file zip tersebut pada penyimpanan lokal anda.
 5. Permainan **Sky War** ini siap untuk dimainkan. Dengan klik dua kali pada file bernama `sky_war.py` anda dapat merasakan serunya permainan ini.
 # Petunjuk Permainan
-tampilan awal:tampilan awal
-tampilan  dalam  permainan: ⭠  ⭡ ⭢ ⭣ = Untuk Menggerakan Pesawat.
-tampilan  jika game di pause: Space = Untuk menghentikan atau melanjutkan permainan
+1. Tampilan awal:tampilan awal
+2. Tampilan  dalam  permainan: ⭠  ⭡ ⭢ ⭣ = Untuk Menggerakan Pesawat.
+3. Tampilan  jika game di pause: Space = Untuk menghentikan atau melanjutkan permainan
 
