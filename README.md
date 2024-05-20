@@ -34,3 +34,9 @@ Sky War adalah sebuah permainan tembak-menembak berbasis Python yang dikembangka
 | 122140056 | Gabriella Natalya Rumapea  | Artistic Game Design         |
 | 122140159 | Bonipacius Immanuel Sinaga | Game Designer and Sound      |
 | 122140125 | A Kevin Sergian            | Game Designer and Artist     |
+
+# Referensi
+Berikut ini adalah beberapa referensi yang digunakan dalam pengembangan proyek ini:
+1. [Python Official Documentation](https://docs.python.org/3/)
+2. [Pygame Documentation](https://www.pygame.org/docs/)
+3. [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
