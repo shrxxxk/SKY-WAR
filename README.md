@@ -17,4 +17,12 @@ Sky War adalah sebuah permainan tembak-menembak berbasis Python yang dikembangka
 1. Tampilan awal:tampilan awal
 2. Tampilan  dalam  permainan: ⭠  ⭡ ⭢ ⭣ = Untuk Menggerakan Pesawat.
 3. Tampilan  jika game di pause: Space = Untuk menghentikan atau melanjutkan permainan
+## RC - PY.AGENCY
 
+| NIM       | Nama                       | Profesi                      |
+|-----------|----------------------------|------------------------------|
+| 122140173 | Muhammad Nelwan Fakhri     | Leader and Programmer        |
+| 122140039 | Joy Daniella V.S           | Designer Game Flow           |
+| 122140056 | Gabriella Natalya Rumapea  | Artistic Game Design         |
+| 122140159 | Bonipacius Immanuel Sinaga | Game Designer and Sound      |
+| 122140125 | A Kevin Sergian            | Game Designer and Artist     |
