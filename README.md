@@ -40,7 +40,7 @@ https://github.com/shrxxxk/SKY-WAR/tree/main/UML%20Diagram
 | 122140056 | Gabriella Natalya Rumapea  | Artistic Game Design         |
 | 122140159 | Bonipacius Immanuel Sinaga | Game Designer                |
 | 122140125 | A Kevin Sergian            | Programmer                   |
-
+| 122140237 | Jason Surya Padantya       |                              |
 # Referensi
 Berikut ini adalah beberapa referensi yang digunakan dalam pengembangan proyek ini:
 1. [Python Official Documentation](https://docs.python.org/3/)
