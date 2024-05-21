@@ -28,7 +28,6 @@ Sky War adalah sebuah permainan tembak-menembak berbasis Python yang dikembangka
 - *Z* = untuk mengaktifkan shield
 - *X* = untuk menembakkan missile
 # UML
-https://github.com/shrxxxk/SKY-WAR/tree/main/UML%20Diagram
 # RC - PY.AGENCY
 
 | NIM       | Nama                       | Profesi                      |
