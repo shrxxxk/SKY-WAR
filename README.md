@@ -39,7 +39,7 @@ https://github.com/shrxxxk/SKY-WAR/tree/main/UML%20Diagram
 | 122140039 | Joy Daniella V.S           | Designer Game Flow           |
 | 122140056 | Gabriella Natalya Rumapea  | Artistic Game Design         |
 | 122140159 | Bonipacius Immanuel Sinaga | Game Designer and Sound      |
-| 122140125 | A Kevin Sergian            | Game Designer and Artist     |
+| 122140125 | A Kevin Sergian            | Game Designer                |
 
 # Referensi
 Berikut ini adalah beberapa referensi yang digunakan dalam pengembangan proyek ini:
