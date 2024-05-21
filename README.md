@@ -33,7 +33,7 @@ Sky War adalah sebuah permainan tembak-menembak berbasis Python yang dikembangka
 https://github.com/shrxxxk/SKY-WAR/tree/main/UML%20Diagram
 # RC - PY.AGENCY
 
-| NIM       | Nama                       | Profesi                      |
+| NIM       | Nama                       | Contributions                |
 |-----------|----------------------------|------------------------------|
 | 122140173 | Muhammad Nelwan Fakhri     | Leader and Programmer        |
 | 122140039 | Joy Daniella V.S           | Designer Game Flow           |
